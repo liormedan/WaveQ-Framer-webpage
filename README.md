@@ -2,6 +2,10 @@
 
 🌊 עמוד פרסומי/תדמיתי ב-Next.js המציג את פלטפורמת **WaveQ** - מערכת אינטראקטיבית של צ'אט ועריכת אודיו עם אנימציות מתקדמות.
 
+## 🌐 Live Demo
+
+**🚀 האתר החי:** [https://waveq-framer-webpage-8zayvrpms-liormedans-projects.vercel.app](https://waveq-framer-webpage-8zayvrpms-liormedans-projects.vercel.app)
+
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/liormedan/WaveQ-Framer-webpage)
 
 ## 🚀 התקנה
@@ -66,15 +70,21 @@ npm start
 
 ## 📦 פריסה
 
-הפרויקט מוכן לפריסה ב-Vercel:
+הפרויקט נפרס בהצלחה ב-Vercel! 🎉
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new)
+**קישור לפריסה:** [https://waveq-framer-webpage-8zayvrpms-liormedans-projects.vercel.app](https://waveq-framer-webpage-8zayvrpms-liormedans-projects.vercel.app)
 
-או באמצעות CLI:
+**Dashboard:** [https://vercel.com/liormedans-projects/waveq-framer-webpage](https://vercel.com/liormedans-projects/waveq-framer-webpage)
+
+### פריסה אוטומטית
+- כל push ל-`main` branch יפרס אוטומטית
+- כל branch/PR יקבל קישור preview
+
+### פריסה ידנית דרך CLI:
 
 ```bash
 npm i -g vercel
-vercel
+vercel --yes
 ```
 
 ## 🎨 עיצוב 3D
